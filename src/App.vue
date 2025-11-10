@@ -1,9 +1,11 @@
 <template>
-  <first></first>
+  <!-- <commandBasic></commandBasic> -->
+  <refFamily></refFamily>
 </template>
 
 <script setup lang="ts">
-import first from "./components/first.vue";
+import commandBasic from "./components/commandBasic.vue";
+import refFamily from "./components/refFamily.vue";
 </script>
 
 <style scoped></style>
